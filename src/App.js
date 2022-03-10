@@ -3,10 +3,10 @@ import './App.css';
 
 function App() {
 	return (
-		<main>
+		<div className="App">
 			<h1>Hello World!</h1>
-			<p>This is my react app!</p>
-		</main>
+			<p>Welcome to my React app!</p>
+		</div>
 	);
 }
 
